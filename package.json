@@ -6,6 +6,10 @@
     "prod": "node src/server.js",
     "test": "echo test"
   },
+  "engines": {
+    "node": "10.14.2",
+    "npm": "6.4.1"
+  },
   "description": "backend REST API to AirCnC OmmiStack9",
   "main": "index.js",
   "author": "Daniel Corrêa",
